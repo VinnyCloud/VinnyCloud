@@ -1,13 +1,13 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
 ###
 
-<p align="left">Eu sou o Vinicius, e sou Desenvolvedor Junior.</p>
+<p align="left">Eu sou o Vinicius e sou Desenvolvedor Junior.</p>
 
 ###
 
-<h2 align="left">Eu me chamo Vinicius, Tenho 19 anos e estudi Análse e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.</h2>
+<h2 align="left">Tenho 19 anos e estudo Análise e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.</h2>
 
 ###
 
