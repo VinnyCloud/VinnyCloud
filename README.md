@@ -3,15 +3,15 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Eu sou o Vinicius, e sou Desenvolvedor Junior.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Eu me chamo Vinicius, Tenho 19 anos e estudi Análse e Desenvolvimento de Sistemas na universidade Anhanguera Educacional.</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"><br>📚 Atualmente estou aprendendo: SQL e JavaScript<br>🎯 Objetivos: Ser Desenvolvedor Front-end<br>
 
 ###
 
