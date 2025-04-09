@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de Análise e Desenvolvimento de Sistema<br>🤝 Estou a procura de estágios<br>🌱 Atualmente estou aprendendo Front-End
+🔭 Tecnólogo de Análise e Desenvolvimento de Sistema<br>🤝 Estou a procura de estágios<br>🌱 Atualmente estou aprendendo Back-And, focado em Java
 
 
 ## 🌐 Socials:
